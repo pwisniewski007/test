@@ -6,6 +6,7 @@ int add(int a,int b)
 int main()
 {
 	printf("hello world\r\n");
+	printf("test");
 	printf("%d\r\n",add(53,4));
 	return 0;
 }
